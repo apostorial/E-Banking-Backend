@@ -9,7 +9,6 @@ import com.project.ebankingbackend.entities.CurrentAccount;
 import com.project.ebankingbackend.entities.Customer;
 import com.project.ebankingbackend.entities.SavingAccount;
 import org.springframework.beans.BeanUtils;
-import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Service;
 
 @Service

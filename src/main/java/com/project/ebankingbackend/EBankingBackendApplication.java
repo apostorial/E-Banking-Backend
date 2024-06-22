@@ -64,6 +64,7 @@ public class EBankingBackendApplication {
 			}
 		};
 	}
+//	@Bean
 	CommandLineRunner start(CustomerRepository customerRepository,
 							BankAccountRepository bankAccountRepository,
 							AccountOperationRepository accountOperationRepository) {
