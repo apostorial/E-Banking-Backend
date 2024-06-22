@@ -1,7 +1,6 @@
 package com.project.ebankingbackend.services;
 
 import com.project.ebankingbackend.dtos.*;
-import com.project.ebankingbackend.entities.BankAccount;
 import com.project.ebankingbackend.exceptions.BankAccountNotFoundException;
 import com.project.ebankingbackend.exceptions.CustomerNotFoundException;
 import com.project.ebankingbackend.exceptions.InsufficientBalanceException;
